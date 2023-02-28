@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774662846640",
+    "project_id": "picozenfinal",
+    "storage_bucket": "picozenfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774662846640:android:aae68a960222c810386375",
+        "android_client_info": {
+          "package_name": "com.example.picozen_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774662846640-giug2a4882vho8qrr2rhhu2rga045kpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picozen_final",
+            "certificate_hash": "f879c9d1f3d27192879353a9139a5a5cfdb383a8"
+          }
+        },
+        {
+          "client_id": "774662846640-svlm9qda5o28f4puku4lpl45437vkr36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUH5rMBgo0iZVp_Hd4YeTmX3XKHxH5lic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774662846640-svlm9qda5o28f4puku4lpl45437vkr36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
